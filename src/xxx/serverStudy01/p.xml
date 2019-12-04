@@ -2,6 +2,10 @@
 <persons>
 	<person>
 		<name>duncan</name>
-		<age>7</age>
+		<age>43</age>
+	</person>
+	<person>
+		<name>Kawii</name>
+		<age>27</age>
 	</person>
 </persons>
